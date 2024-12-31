@@ -6018,7 +6018,7 @@ CONFIG_PACKAGE_ddns-scripts-services=y
 CONFIG_PACKAGE_ddns-scripts_aliyun=y
 CONFIG_PACKAGE_ddns-scripts_dnspod=y
 # CONFIG_PACKAGE_dhcp-forwarder is not set
-# CONFIG_PACKAGE_dns2socks is not set
+CONFIG_PACKAGE_dns2socks=y
 # CONFIG_PACKAGE_dns2tcp is not set
 # CONFIG_PACKAGE_dnscrypt-proxy is not set
 # CONFIG_PACKAGE_dnscrypt-proxy-resolvers is not set
